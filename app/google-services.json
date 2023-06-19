@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "142201764127",
+    "project_id": "capture-it-4bec4",
+    "storage_bucket": "capture-it-4bec4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142201764127:android:bfe6f9fb3dfdbfcbf4182a",
+        "android_client_info": {
+          "package_name": "com.example.captureit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "142201764127-j42hthjmvod78mievgo8p2g810sf7qld.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2mHixM_Npo31k-iC09oX2CJRsUu2l60U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "142201764127-j42hthjmvod78mievgo8p2g810sf7qld.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
