@@ -5,6 +5,7 @@ data class CaptureData(
     val batteryStatus: BatteryStatus,
     val location: Location,
     val timestamp: Long,
-    val photoUri: String
+    val photoUri: String,
+    val captureCount: CaptureCount = CaptureCount(0)
 )
 
